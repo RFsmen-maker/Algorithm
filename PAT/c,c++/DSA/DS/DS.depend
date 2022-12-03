@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1627653641 source:r:\code\pat\c,c++\dsa\ds\main.c
+	"PATDS.h"
+
+1627835715 r:\code\pat\c,c++\dsa\ds\patds.h
+	<stdio.h>
+	<stdlib.h>
+
+1627756227 source:r:\code\pat\c,c++\dsa\ds\patds.c
+	"PATDS.h"
+
